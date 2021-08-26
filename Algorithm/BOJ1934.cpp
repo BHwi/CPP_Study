@@ -25,6 +25,6 @@ int main()
         cin >> A;
         cin >> B;
 
-        cout << A * B / GCD(A, B);
+        cout << A * B / GCD(A, B) << endl;
     }
 }
